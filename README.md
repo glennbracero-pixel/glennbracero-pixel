@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 # AI Automation Developer Portfolio
 
@@ -51,6 +51,17 @@ An end-to-end business workflow prototype that connects customer inquiry collect
 **Technologies:** Python, Ollama, Qwen, Google Forms, Google Sheets, Gmail API, Streamlit, pytest
 
 [View Project on GitHub](https://github.com/glennbracero-pixel/smartflow-ai-business-workflow-automation)
+
+### 5. StyleHub — Public Customer Support Demo
+
+An interactive public customer support prototype that demonstrates common customer questions, sample business policy responses, and human-support escalation.
+
+**Technologies:** Python, Streamlit, GitHub
+
+- **Live Demo:** [Try StyleHub](https://styleapp-ai-customer-support-assistant-cywbepw5i8vxkiegcvmzrx.streamlit.app/)
+- **Source Code:** [View GitHub Repository](https://github.com/glennbracero-pixel/stylehub-ai-customer-support-assistant)
+
+*Note: This public demo uses predefined sample responses. It is not connected to a live store, customer accounts, or the original local AI system.*
 
 ## My Development Goals
 
