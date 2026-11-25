@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**glennbracero-pixel/glennbracero-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AI Automation Developer Portfolio
 
-Here are some ideas to get you started:
+Hi! I'm an aspiring AI Automation Developer focused on building practical AI-powered systems that help businesses automate repetitive tasks, manage customer inquiries, qualify leads, and improve customer support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build projects using Python, local AI models, APIs, workflow automation, and business dashboards.
+
+## Technical Skills
+
+- **Programming:** Python
+- **AI & LLMs:** Ollama, Qwen, Prompt Engineering
+- **AI Applications:** RAG (Retrieval-Augmented Generation), AI-powered assistants
+- **Automation:** Python workflow automation, Google Forms, Google Sheets
+- **Integrations:** Gmail API, Google APIs
+- **Databases & Storage:** ChromaDB
+- **Dashboards:** Streamlit
+- **Testing:** pytest, automated testing
+- **Version Control:** Git, GitHub
+
+## Featured Projects
+
+### 1. AI Customer Inquiry Assistant
+
+An automated customer inquiry workflow that analyzes incoming inquiries using AI and prepares personalized Gmail follow-up drafts for human review.
+
+**Technologies:** Python, Ollama, Qwen, Google Forms, Google Sheets, Gmail API
+
+[View Project on GitHub](https://github.com/glennbracero-pixel/ai-customer-inquiry-assistant)
+
+### 2. AI Lead Qualification & Follow-Up Assistant
+
+An AI-assisted lead qualification system that analyzes customer requirements, calculates transparent lead scores, categorizes leads, and prepares follow-up email drafts.
+
+**Technologies:** Python, Ollama, Qwen, Google Sheets, Gmail API, Pydantic, pytest
+
+[View Project on GitHub](https://github.com/glennbracero-pixel/ai-lead-qualification-assistant)
+
+### 3. AI Customer Support Assistant
+
+A retrieval-augmented customer support chatbot that searches a knowledge base and generates answers grounded in relevant business documents.
+
+**Technologies:** Python, Ollama, Qwen, ChromaDB, Sentence Transformers, Streamlit
+
+[View Project on GitHub](https://github.com/glennbracero-pixel/stylehub-ai-customer-support-assistant)
+
+### 4. AI Business Workflow Automation System
+
+An end-to-end business workflow prototype that connects customer inquiry collection, AI lead analysis, CRM updates, Gmail draft creation, reporting, and a Streamlit dashboard.
+
+**Technologies:** Python, Ollama, Qwen, Google Forms, Google Sheets, Gmail API, Streamlit, pytest
+
+[View Project on GitHub](https://github.com/glennbracero-pixel/smartflow-ai-business-workflow-automation)
+
+## My Development Goals
+
+- Build reliable AI-powered business automation systems.
+- Improve API integration and workflow orchestration skills.
+- Learn production deployment, monitoring, and security practices.
+- Develop practical solutions for real business problems.
+
+## Contact
+
+GitHub: [@glennbracero-pixel](https://github.com/glennbracero-pixel)
+
+---
+
+*This portfolio contains independent learning projects and local prototypes. Integrations and capabilities are documented in each project's README. These projects are not presented as production-ready commercial systems.*
