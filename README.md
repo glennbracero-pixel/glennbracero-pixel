@@ -63,6 +63,17 @@ An interactive public customer support prototype that demonstrates common custom
 
 *Note: This public demo uses predefined sample responses. It is not connected to a live store, customer accounts, or the original local AI system.*
 
+### 6. n8n Customer Inquiry Automation
+
+A visual business workflow automation system that connects Google Forms, Google Sheets, and Gmail. It validates customer emails, detects returning customers, classifies inquiries using deterministic rules, updates a CRM, and creates Gmail follow-up drafts for Hot leads. A separate Error Handler workflow records execution failures.
+
+**Technologies:** n8n Community Edition, Docker, Google Forms, Google Sheets, Gmail API, JavaScript
+
+- **Main Project:** [View GitHub Repository](https://github.com/glennbracero-pixel/n8n-customer-inquiry-automation)
+- **Features:** Duplicate detection, lead prioritization, CRM dashboard, Gmail drafts, and error logging.
+
+*Note: This is a local portfolio prototype. Gmail drafts require human review and are never sent automatically.*
+
 ## My Development Goals
 
 - Build reliable AI-powered business automation systems.
