@@ -2,20 +2,21 @@
 
 # AI Automation Developer Portfolio
 
-Hi! I'm an aspiring AI Automation Developer focused on building practical AI-powered systems that help businesses automate repetitive tasks, manage customer inquiries, qualify leads, and improve customer support.
+Hi! I'm an aspiring AI Automation Developer focused on building practical AI-powered systems and business workflow automations that help businesses reduce repetitive tasks, manage customer inquiries, qualify leads, and improve customer support.
 
-I build projects using Python, local AI models, APIs, workflow automation, and business dashboards.
+I build projects using Python, AI/LLMs, API integrations, workflow automation platforms, databases, and business dashboards.
 
 ## Technical Skills
 
-- **Programming:** Python
+- **Programming:** Python, JavaScript
 - **AI & LLMs:** Ollama, Qwen, Prompt Engineering
-- **AI Applications:** RAG (Retrieval-Augmented Generation), AI-powered assistants
-- **Automation:** Python workflow automation, Google Forms, Google Sheets
-- **Integrations:** Gmail API, Google APIs
-- **Databases & Storage:** ChromaDB
-- **Dashboards:** Streamlit
-- **Testing:** pytest, automated testing
+- **AI Applications:** Retrieval-Augmented Generation (RAG), AI-powered assistants
+- **Workflow Automation:** n8n Community Edition, Docker, Python automation
+- **API Integrations:** Google APIs, Google Sheets API, Gmail API
+- **Databases & Storage:** ChromaDB, Google Sheets
+- **Dashboards & Interfaces:** Streamlit
+- **Testing & Validation:** pytest, Pydantic, input validation, automated testing
+- **Workflow Reliability:** Error handling, logging, duplicate detection, data validation
 - **Version Control:** Git, GitHub
 
 ## Featured Projects
